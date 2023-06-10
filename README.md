@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enocgit
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @enocansah@yahoo.com
 
